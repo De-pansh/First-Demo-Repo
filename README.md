@@ -1,4 +1,4 @@
 # First-Demo-Repo
-Creating first Repo
+Creating first Repos
 <br>
 Author:- Deepansh Sah
